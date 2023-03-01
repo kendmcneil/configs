@@ -1,0 +1,6 @@
+my:
+  greeting: Hello World
+db:
+  connection: connection-string
+  host: hostname
+  port: 1234
